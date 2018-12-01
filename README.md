@@ -19,4 +19,7 @@ $ npm start
 $ npm run generate
 ```
 
+## APP Link
+[Deploy in Heroku]: https://nuxt-fundamentals-jonatas.herokuapp.com/
+
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
